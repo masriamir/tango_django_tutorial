@@ -1,0 +1,1 @@
+This is just a repo to hold my progress through the Tango with Django tutorial.
